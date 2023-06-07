@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\include\GL\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(280,57): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(280,105): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(284,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(288,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(292,89): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(295,71): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(298,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(301,87): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(340,115): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(348,123): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(356,104): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(370,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(448,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(512,100): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(520,107): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(534,94): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(564,48): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(564,75): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(575,49): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\Nhom14\main.cpp(575,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  Nhom14.vcxproj -> E:\A Year 3\Preriod 6\DHMT\BTL\HAUI_DHMT\Nhom14\x64\Debug\Nhom14.exe
